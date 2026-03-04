@@ -1,11 +1,14 @@
+
 // The Shape Shifting Hostel
+
+
+// A simple hostel allocation system that will assign and add or manipulate students in hostel allocation, Morever it is jsut a test to check branch systen in git
 
 #include <iostream>
 
 using namespace std;
 
 struct student{
-
 
     string roll_num;
 
